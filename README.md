@@ -10,24 +10,24 @@ Resignificamos lo valioso dentro de la industria de la moda a través de la toke
 Es muy importante para nosotrxs la visibilización de la comunidad de diseñadorxs de prendas upcycled, en la que una prenda acaba siendo una pieza de arte en vez de terminar en un basurero. Queremos contribuir a disminuir la catastrofe climatica causada por la industria textil a través de lo que realmente es importante: la ropa que es duradera y tiene historia tiene mucho más valor que el fast fashion.
 
 ## Tecnologías que utilizamos: 
-  -**Desarrollo de la UI**- [Bubble](https://bubble.io/)
+  - **Desarrollo de la UI** - [Bubble](https://bubble.io/)
 
-**¿Qué es Bubble?**
+- **¿Qué es Bubble?** -
 Bubble.io es una plataforma de desarrollo de aplicaciones web que permite a las personas **crear aplicaciones sin necesidad de escribir código**. Ofrece un entorno de desarrollo visual en el que los usuarios pueden diseñar y desarrollar aplicaciones web completas utilizando un editor de arrastrar y soltar.
 
-¿Cómo funciona Bubble?
+- **¿Comó funciona Buble?** -
 Funciona con un editor visual en el que los usuarios pueden diseñar y desarrollar aplicaciones web completas utilizando un **editor de arrastrar y soltar**. Se puede configurar el comportamiento de la aplicación a través de **workflows**. La plataforma también proporciona una base de datos integrada y permite el despliegue y alojamiento de las aplicaciones.
 
--**Frond-end:**- 
+- **Frond-end:** -
 Los usuarios arrastran y sueltan elementos como botones, campos de texto e imágenes para diseñar la interfaz de usuario de la aplicación. Luego, pueden personalizar el estilo y la disposición de estos elementos según sea necesario.
 
--**Back-end:**-
+- **Back-end:** -
 se gestiona principalmente a través de workflows y la base de datos integrada. Los usuarios pueden definir workflows para realizar acciones como almacenar datos en la base de datos, enviar correos electrónicos, procesar pagos y mucho más. La base de datos integrada permite almacenar y manipular datos dentro de la aplicación, y los usuarios pueden definir tipos de datos personalizados y relaciones entre ellos.
 
--**Plugins:**-
+- **Plugin:** -
 Bubble.io permite integrar plugins y API externas para ampliar la funcionalidad del back-end, como pagos en línea, análisis y autenticación de usuarios.
 
 ## Plugins
-  -**Metaplex**- [Metaplex Plugin]()
-  -**Phantom**- [Phantom Wallet Plugin] ()
+  -**Metaplex**- [Metaplex Plugin](https://bubble.io/)
+  -**Phantom**- [Phantom Wallet Plugin](https://bubble.io/)
 
