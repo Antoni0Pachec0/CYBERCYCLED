@@ -1,5 +1,7 @@
 # CYBERCYCLED
 
+**Nuestra pagina web: ** [CYBERCYCLED](https://cybercycled-hub.bubbleapps.io/version-test/)
+
 ## ¿Quiénes somos?
 Somos un colectivo de idealistas y apasianodxs de la moda, donde creemos que el disfrutar de la identidad que nos da el elegir prendas auténticas no debe ser un ecocidio total, sino una forma de conectar con nuestra individualidad y la sostenibilidad.  Conectamos la comunidad de eco apasionadxs que quieren vestirse fashion con los expositores de ropa modificada más vanguardistas de América Latina a través de la tecnología blockchain y un marketplace tokenizado. 
 
@@ -8,6 +10,8 @@ Resignificamos lo valioso dentro de la industria de la moda a través de la toke
 
 ## ¿Por qué lo hacemos?
 Es muy importante para nosotrxs la visibilización de la comunidad de diseñadorxs de prendas upcycled, en la que una prenda acaba siendo una pieza de arte en vez de terminar en un basurero. Queremos contribuir a disminuir la catastrofe climatica causada por la industria textil a través de lo que realmente es importante: la ropa que es duradera y tiene historia tiene mucho más valor que el fast fashion.
+
+![Inicio de la página]([URL_de_la_imagen](https://drive.google.com/file/d/1hCpOakzn1KoHLOhvDNCvAxc5PWAPSJh0/view?usp=sharing))
 
 ## Tecnologías que utilizamos: 
   - **Desarrollo de la UI** - [Bubble](https://bubble.io/)
@@ -28,8 +32,8 @@ se gestiona principalmente a través de workflows y la base de datos integrada. 
 Bubble.io permite integrar plugins y API externas para ampliar la funcionalidad del back-end, como pagos en línea, análisis y autenticación de usuarios.
 
 ## Plugins
-  - **Metaplex** - [Metaplex Plugin](https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200)
-  - **Phantom** - [Phantom Wallet Plugin]([https://bubble.io/](https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200)https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200)
+  - **Metaplex** - [Metaplex Plugin]([https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200](https://novabloq.com/plugin/metaplex---solana-nfts-1672944569246x875969888490958300))
+  - **Phantom** - [Phantom Wallet Plugin](https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200)
 
 
 
