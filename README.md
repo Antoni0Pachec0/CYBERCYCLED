@@ -2,7 +2,8 @@
 
 **Nuestra página web:** [CYBERCYCLED](https://cybercycled-hub.bubbleapps.io/version-test/)
 
-https://youtu.be/W90diSrxbc4
+<iframe width="560" height="315" src="https://youtu.be/W90diSrxbc4" frameborder="0" allowfullscreen></iframe>
+
 
 ## ¿Quiénes somos?
 Somos un colectivo de idealistas y apasianodxs de la moda, donde creemos que el disfrutar de la identidad que nos da el elegir prendas auténticas no debe ser un ecocidio total, sino una forma de conectar con nuestra individualidad y la sostenibilidad.  Conectamos la comunidad de eco apasionadxs que quieren vestirse fashion con los expositores de ropa modificada más vanguardistas de América Latina a través de la tecnología blockchain y un marketplace tokenizado. 
