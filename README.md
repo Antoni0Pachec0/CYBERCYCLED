@@ -2,7 +2,7 @@
 
 **Nuestra página web:** [CYBERCYCLED](https://cybercycled-hub.bubbleapps.io/version-test/)
 
-[![Video Demo](https://img.youtube.com/vi/W90diSrxbc4?si=Hek6jGjvCpj6uwTT/maxresdefault.jpg)](https://www.youtube.com/watch?v=W90diSrxbc4?si=Hek6jGjvCpj6uwTT)
+[![Video Demo](https://img.youtube.com/vi/W90diSrxbc4/0.jpg)](https://www.youtube.com/watch?v=W90diSrxbc4)
 
 
 ## ¿Quiénes somos?
