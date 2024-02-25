@@ -32,7 +32,7 @@ Se gestiona principalmente a través de workflows y la base de datos integrada. 
 Bubble.io permite integrar plugins y API externas para ampliar la funcionalidad del back-end, como pagos en línea, análisis y autenticación de usuarios.
 
 ## Plugins
-  - **Metaplex** - [Metaplex Plugin]([https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200](https://novabloq.com/plugin/metaplex---solana-nfts-1672944569246x875969888490958300))
+  - **Metaplex** - [Metaplex Plugin](https://novabloq.com/plugin/metaplex---solana-nfts-1672944569246x875969888490958300)
   - **Phantom** - [Phantom Wallet Plugin](https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200)
 
 
