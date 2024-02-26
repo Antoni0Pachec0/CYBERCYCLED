@@ -44,7 +44,7 @@ Bubble.io allows integrating external plugins and APIs to extend the functionali
   - **Phantom** - [Phantom Wallet Plugin](https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200)
 
 ## "Flowcharts - Buttons"
-![Inicio de la página](./img/diagramaWallet-EN.png)
+![Inicio de la página](./img/diagramWallet-EN.png)
 ![Mi Perfil](./img/MyProfile-EN.png)
 ![Marketplace](./img/Marketplace-EN.png)
 ![Mint](./img/Mint-EN.png)
