@@ -1,6 +1,6 @@
 # CYBERCYCLED
 
-## **(English version):** [Go to English version](https://github.com/Antoni0Pachec0/CYBERCYCLED#L45)
+## **(English version):** [Go to English version](https://github.com/Antoni0Pachec0/CYBERCYCLED#L50)
 
 
 **Nuestra página web:** [CYBERCYCLED](https://cybercycled-hub.bubbleapps.io/version-test/)
