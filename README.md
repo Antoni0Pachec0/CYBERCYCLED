@@ -19,6 +19,8 @@ Resignificamos lo valioso dentro de la industria de la moda a través de la toke
 Es muy importante para nosotrxs la visibilización de la comunidad de diseñadorxs de prendas upcycled, en la que una prenda acaba siendo una pieza de arte en vez de terminar en un basurero. Queremos contribuir a disminuir la catastrofe climatica causada por la industria textil a través de lo que realmente es importante: la ropa que es duradera y tiene historia tiene mucho más valor que el fast fashion.
 
 ![Inicio de la página](./img/ind.png)
+![Next](./img/Landing-StepsToUse.png)
+![Next](./img/Landing-Who-How-Why.png)
 
 ## Tecnologías que utilizamos: 
   - **Desarrollo de la UI** - [Bubble](https://bubble.io/)
