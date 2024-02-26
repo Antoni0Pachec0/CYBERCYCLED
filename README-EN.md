@@ -15,6 +15,8 @@ We redefine the value within the fashion industry by tokenizing vintage, second-
 The visibility of the upcycled garment designer community is crucial to us, where a garment becomes a piece of art instead of ending up in a landfill. We aim to contribute to reducing the climate catastrophe caused by the textile industry through what truly matters: durable and storied clothing has much more value than fast fashion.
 
 ![Inicio de la página](./img/ind.png)
+![Next](./img/Landing-StepsToUse.png)
+![Next](./img/Landing-Who-How-Why.png)
 
 ## Technologies we use:
  - **UI Development** - [Bubble](https://bubble.io/)
