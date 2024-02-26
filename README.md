@@ -5,7 +5,6 @@
 ### Video Demo en Youtube: 
 [![Video Demo](https://img.youtube.com/vi/W90diSrxbc4/0.jpg)](https://www.youtube.com/watch?v=W90diSrxbc4)
 
-
 ## ¿Quiénes somos?
 Somos un colectivo de idealistas y apasianodxs de la moda, donde creemos que el disfrutar de la identidad que nos da el elegir prendas auténticas no debe ser un ecocidio total, sino una forma de conectar con nuestra individualidad y la sostenibilidad.  Conectamos la comunidad de eco apasionadxs que quieren vestirse fashion con los expositores de ropa modificada más vanguardistas de América Latina a través de la tecnología blockchain y un marketplace tokenizado. 
 
@@ -39,6 +38,8 @@ Bubble.io permite integrar plugins y API externas para ampliar la funcionalidad 
   - **Metaplex** - [Metaplex Plugin](https://novabloq.com/plugin/metaplex---solana-nfts-1672944569246x875969888490958300)
   - **Phantom** - [Phantom Wallet Plugin](https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200)
 
+## Diagramas de flujo "Botones"
+![Inicio de la página](./img/diagramaWallet.png)
 
 
 
