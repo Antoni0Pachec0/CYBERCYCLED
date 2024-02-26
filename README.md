@@ -45,4 +45,3 @@ Bubble.io permite integrar plugins y API externas para ampliar la funcionalidad 
 ## Diagramas de flujo "Botones"
 ![Inicio de la página](./img/diagramaWallet.png)
 
-# English Version
