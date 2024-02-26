@@ -1,6 +1,6 @@
 # CYBERCYCLED
 
-## **(English version):** [Go to English version](https://github.com/Antoni0Pachec0/CYBERCYCLED#L50)
+[English Version](#english-version)
 
 
 **Nuestra página web:** [CYBERCYCLED](https://cybercycled-hub.bubbleapps.io/version-test/)
@@ -45,3 +45,4 @@ Bubble.io permite integrar plugins y API externas para ampliar la funcionalidad 
 ## Diagramas de flujo "Botones"
 ![Inicio de la página](./img/diagramaWallet.png)
 
+# English Version
