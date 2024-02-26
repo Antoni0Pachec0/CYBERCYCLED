@@ -38,7 +38,7 @@ Bubble.io permite integrar plugins y API externas para ampliar la funcionalidad 
   - **Metaplex** - [Metaplex Plugin](https://novabloq.com/plugin/metaplex---solana-nfts-1672944569246x875969888490958300)
   - **Phantom** - [Phantom Wallet Plugin](https://bubble.io/plugin/phantom-login-for-solana-1641357341035x265322829267337200)
 
-### Diagramas de flujo "Botones"
+## Diagramas de flujo "Botones"
 ![Inicio de la página](./img/diagramaWallet.png)
 
 
