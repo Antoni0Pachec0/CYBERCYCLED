@@ -46,4 +46,9 @@ Bubble.io permite integrar plugins y API externas para ampliar la funcionalidad 
 
 ## Diagramas de flujo "Botones"
 ![Inicio de la página](./img/diagramaWallet.png)
-
+![Mi Perfil](./img/MyProfile.png)
+![Marketplace](./img/Marketplace.png)
+![Mint](./img/Mint.png)
+![Edit P](./img/Edit.png)
+![Item](./img/Item.png)
+![MintNFT](./img/MintNFT.png)
