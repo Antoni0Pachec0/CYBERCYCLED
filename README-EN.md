@@ -1,6 +1,3 @@
-## Diagramas de flujo "Botones"
-![Inicio de la página](./img/diagramaWallet.png)
-
 # CYBERCYCLED
 
 **Our Website:** [CYBERCYCLED](https://cybercycled-hub.bubbleapps.io/version-test/)
